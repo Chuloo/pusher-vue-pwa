@@ -28,7 +28,7 @@ import Status from '@/components/Status';
 export default {
   data() {
     return {
-      statusText: 'In the Oven',
+      statusText: '',
       progress: 0,
       connectivityText: '',
       connectivityStatus: true,

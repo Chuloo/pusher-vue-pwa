@@ -7,7 +7,6 @@ import ProgressBar from 'progressbar.js';
 export default {
   data() {
     return {
-      progressVar: 0,
       bar: null
     }
   },
